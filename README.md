@@ -8,7 +8,7 @@ I was bored, and I needed to fix my current keyboard.
 
 ## Features
 This is a 86-key keyboard, which should have at least 4KRO, using KMK on a Raspberry Pi Pico. The case and keycaps are 3D printed.
-It contains all the keys on a normal keyboard without a numpad and the PRINT_SCREEN and INSERT keys. There are an additional 5 keys on the right hand side that can be customised to do whatever you want. By default these would control the KMK keyboard layers.
+It contains all the keys on a normal keyboard without a numpad and the PRINT_SCREEN key. There are an additional 5 keys on the right hand side that can be customised to do whatever you want. By default these would control the KMK keyboard layers.
 
 # Showcase
 - PCB designed in KiCad
