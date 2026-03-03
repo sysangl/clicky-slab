@@ -1,3 +1,11 @@
+# Custom Files
+
+pcb/output/
+pcb/custom-keyboard-backups
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
