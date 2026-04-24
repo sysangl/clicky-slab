@@ -1,3 +1,5 @@
+The second in the Brick series. Although this one is called a slab cause it's way larger than the other Brick devices.
+
 # Clicky Slab
 ## The big brother of the [clicky-brick](https://github.com/sysangl/clicky-brick)
 
